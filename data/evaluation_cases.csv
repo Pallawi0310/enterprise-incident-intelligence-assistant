@@ -1,0 +1,5 @@
+﻿query,expected_incident_id,expected_category
+"Users cannot log in because authentication is timing out",INC-001,Authentication
+"Database connection pool is exhausted and application cannot connect",INC-003,Database
+"VPN connection failure prevents remote network access",INC-005,Network
+"Expired TLS certificate causes browser security warnings",INC-010,Security
